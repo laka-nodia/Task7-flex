@@ -1,0 +1,41 @@
+.header-block{
+	width: 1300px;
+	margin: 50px auto;
+	display: flex;
+	justify-content: space-between;
+}
+.ul-block{
+	display: flex;
+}
+.li-block{
+	margin-left: 30px ;
+	font-family: 'Comfortaa';
+	text-transform: uppercase;
+	font-weight: 900;
+	color: #3D37F1;
+}
+.a-li{
+	color: #3D37F1;
+}
+.logo{
+	font-family: 'Comfortaa';
+}
+.logo-style{
+	font-weight: 900;
+	color: #3D37F1;	
+}
+.section-top{
+	width: 1300px;
+	margin: 0px auto;
+	display: flex;
+	background-color: lightblue;
+	justify-content: space-between;
+}
+.work-div{
+	width: 400px;
+	height: 400px;
+}
+.work-img{
+	width: 400px;
+	height: 400px;
+}
