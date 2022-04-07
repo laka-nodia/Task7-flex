@@ -1,1 +1,3 @@
-# Task7-flex
+# Assignment 7
+
+* CSS FlexBox
